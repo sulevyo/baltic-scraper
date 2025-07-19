@@ -8,6 +8,7 @@ colorama==0.4.6
 distlib==0.3.9
 filelock==3.16.1
 Flask==3.1.1
+gunicorn==23.0.0
 idna==3.10
 itsdangerous==2.2.0
 Jinja2==3.1.6
@@ -19,5 +20,6 @@ requests==2.32.4
 soupsieve==2.7
 typing_extensions==4.14.1
 urllib3==2.5.0
+vboxapi==1.0
 virtualenv==20.27.1
 Werkzeug==3.1.3
