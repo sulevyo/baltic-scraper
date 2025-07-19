@@ -19,6 +19,5 @@ requests==2.32.4
 soupsieve==2.7
 typing_extensions==4.14.1
 urllib3==2.5.0
-vboxapi==1.0
 virtualenv==20.27.1
 Werkzeug==3.1.3
